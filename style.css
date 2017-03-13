@@ -1,0 +1,27 @@
+.jumbotron {
+	background-color: #EF5D60;
+	color: white;
+	padding: 30px 60px;
+}
+
+.panel-primary .panel-heading {
+	background-color: #76818E;
+}
+
+#scheduleTable {
+	text-align: left;
+}
+
+#submitTrain {
+	background-color: #EF5D60;
+	border: none;
+}
+
+th, td {
+	padding: 5px 0;
+	text-align: left;
+}
+
+td {
+	border-top: 1px solid #ddd !important;
+}
